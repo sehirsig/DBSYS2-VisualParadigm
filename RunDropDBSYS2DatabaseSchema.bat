@@ -1,0 +1,1 @@
+@call RunSample DropDBSYS2DatabaseSchema
